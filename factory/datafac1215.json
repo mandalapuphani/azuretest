@@ -1,0 +1,9 @@
+{
+	"name": "datafac1215",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c02ac533-ff49-45b0-b664-a2dab26e586f",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
